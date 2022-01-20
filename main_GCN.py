@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import torch
@@ -9,6 +10,7 @@ from torch.optim.lr_scheduler import MultiStepLR
 from torch.utils.tensorboard import SummaryWriter
 import math
 import scipy.sparse as sp
+print("test")
 
 writer = SummaryWriter()
 
