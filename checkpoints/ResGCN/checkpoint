@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-600"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-300"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-400"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-500"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\ResGCN\\model-600"
