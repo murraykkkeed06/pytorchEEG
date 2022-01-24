@@ -1,4 +1,4 @@
 ## pytorchEEG
 
 ---
-* reimplement https://github.com/SuperBruceJia/EEG-DL in pytorch version 
+* reimplement https://github.com/SuperBruceJia/EEG-DL & https://github.com/braindecode/braindecode/tree/master/braindecode/models in pytorch version 
