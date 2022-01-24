@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1800"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1400"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1500"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1600"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1700"
+all_model_checkpoint_paths: "C:\\Users\\murray\\pytorchEEG\\gcn_scripts\\..\\checkpoints\\Graph_Convolutional_Neural_Network\\model-1800"
